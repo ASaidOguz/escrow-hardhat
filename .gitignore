@@ -1,0 +1,5 @@
+app/dist
+cache
+node_modules
+.env
+*.bck
